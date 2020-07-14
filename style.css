@@ -1,5 +1,5 @@
 body {
-    background-image: url("assets/spooky-ocean.jpg");
+    background-image: url("assets/teal.png");
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 0px;
@@ -38,6 +38,15 @@ form {
     left: 15px;
     width: auto;
     right: 15px;
-    /* margin: 0;
 }
+
+.navbar-brand {
+    background-color: deeppink;
+    padding: 40px;
+}
+
+.navbar {
+    padding: 0 !important;
+}
+
 
