@@ -31,6 +31,7 @@ form {
 
 .image-title {
     padding: 40px 15px 40px 0;
+    font-family: fantasy;
     background: yellow;
     color: deeppink;
     position: absolute;
@@ -49,4 +50,10 @@ form {
     padding: 0 !important;
 }
 
+.text-right {
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bolder;
+color: deeppink;
+text-shadow: grey;
+}
 
